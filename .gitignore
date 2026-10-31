@@ -1,0 +1,16 @@
+# Python & Environment (API Key hide karne ke liye)
+.env
+backend/.env
+__pycache__/
+backend/__pycache__/
+*.pyc
+
+# Node Modules & Build
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
